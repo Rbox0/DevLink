@@ -1743,9 +1743,10 @@ a {
     background-color: #ff0000;
 }
 
-.footer .box .text {
+.footer .box .text p {
     line-height: 2;
     color: #b9b9b9;
+    margin-top: 10px;
 }
 
 .footer .box .links li {
